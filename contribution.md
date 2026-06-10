@@ -34,3 +34,7 @@ Last updated for Pair Extraordinaire contribution.
 ## Thanks for contributing!
 
 This project welcomes contributions from the community.
+
+## Community Contributions
+
+Thank you to all contributors for helping improve this project.
