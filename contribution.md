@@ -30,3 +30,7 @@ Be respectful and constructive when interacting with other contributors.
 Happy Coding! 🚀
 
 Last updated for Pair Extraordinaire contribution.
+
+## Thanks for contributing!
+
+This project welcomes contributions from the community.
